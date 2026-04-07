@@ -1,0 +1,29 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos generados por la ejecución del servidor
+# El servidor genera este fichero de log durante su funcionamiento [cite: 215]
+numerodirs.txt
+
+# Configuración local
+# Este fichero contiene la ruta root que puede variar según el entorno 
+rootdir.txt
+
+# Directorios de compilación y binarios de Agent Builder / IDEs
+bin/
+build/
+target/
+dist/
+
+# Archivos de proyecto de IDE (Eclipse/Agent Builder)
+.settings/
+.classpath
+.project
+*.launch
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+.DS_Store
