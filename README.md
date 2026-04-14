@@ -12,7 +12,7 @@ El objetivo principal es la monitorización de un servidor FTP monohilo mediante
 ---
 
 ## Especificaciones del MIB
-[cite_start]El MIB se organiza bajo el nodo raíz OID `1.3.6.1.4.1.47454`.
+El MIB se organiza bajo el nodo raíz OID `1.3.6.1.4.1.47454`.
 
 ### Objetos de Gestión Requeridos
 | Objeto | Descripción | Acceso | Restricciones |
